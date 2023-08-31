@@ -24,18 +24,18 @@ Este proyecto consiste en una aplicación de escritorio que permite gestionar un
 
 ## :file_folder: Estructura del Código
 
-Ejercicio1/
-├── Controllers/
-│ ├── ClienteController.cs
-├── Models/
-│ ├── Cliente.cs
-├── Views/
-│ ├── CreateView.cs
-│ ├── DeleteView.cs
-│ ├── UpdateView.cs
-│ └── Form1.cs
-├── Program.cs
-└── README.md
+-**Ejercicio1/**
+- **Controllers/**
+  - ClienteController.cs
+- **Models/**
+  - Cliente.cs
+- **Views/**
+  - CreateView.cs
+  - DeleteView.cs
+  - UpdateView.cs
+  - Form1.cs
+- Program.cs
+- README.md
 
 
 ## :memo: Instrucciones
@@ -82,23 +82,23 @@ Este es un proyecto de ejemplo que muestra una aplicación de gestión de client
 
 ## :file_folder: Estructura del Código
 
-Ejercicio2/
-├── Controllers/
-│ ├── ClienteController.cs
-│ └── VideoController.cs
-├── Models/
-│ ├── Cliente.cs
-│ └── Video.cs
-├── Views/
-│ ├── CreateClienteView.cs
-│ ├── CreateVideoView.cs
-│ ├── DeleteClienteView.cs
-│ ├── DeleteVideoView.cs
-│ ├── UpdateClienteView.cs
-│ ├── UpdateVideoView.cs
-│ └── Form1.cs
-├── Program.cs
-└── README.md
+-**Ejercicio2/**
+- **Controllers/**
+  - ClienteController.cs
+  - VideoController.cs
+- **Models/**
+  - Cliente.cs
+  - Video.cs
+- **Views/**
+  - CreateClienteView.cs
+  - CreateVideoView.cs
+  - DeleteClienteView.cs
+  - DeleteVideoView.cs
+  - UpdateClienteView.cs
+  - UpdateVideoView.cs
+  - Form1.cs
+- Program.cs
+- README.md
 
 
 ## :memo: Instrucciones
