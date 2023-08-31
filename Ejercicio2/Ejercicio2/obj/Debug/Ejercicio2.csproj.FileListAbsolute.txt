@@ -1,0 +1,16 @@
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\EjemploApp.Form1.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Views.CreateClienteView.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Views.CreateVideoView.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Views.UpdateClienteView.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Views.UpdateVideoView.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Views.EliminarClienteView.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Views.EliminarVideoView.resources

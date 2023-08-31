@@ -1,0 +1,13 @@
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Views.CreateView.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Views.DeleteView.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Views.UpdateView.resources
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\david.tomas\C5\TA30\TA30---Patr-n-MVC\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
